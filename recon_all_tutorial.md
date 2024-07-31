@@ -82,6 +82,7 @@ freeview -v $SUBJECTS_DIR/sub-08/mri/brain.mgz \
          -v $SUBJECTS_DIR/sub-08/mri/aseg.mgz:colormap=lut
 ```
 
+
 Example 3: Viewing White Matter and Pial Surfaces 
 
 ```bash
@@ -92,3 +93,9 @@ freeview -v $SUBJECTS_DIR/sub-08/mri/brain.mgz \
          -f $SUBJECTS_DIR/sub-08/surf/rh.pial:edgecolor=red
 ```
 
+
+```bash
+freeview -v $SUBJECTS_DIR/sub-08/mri/brain.mgz \
+         -f $SUBJECTS_DIR/sub-08/surf/lh.thickness:colormap=heat \
+         -f $SUBJECTS_DIR/sub-08/surf/rh.thickness:colormap=heat
+```

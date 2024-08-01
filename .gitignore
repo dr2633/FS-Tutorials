@@ -1,0 +1,13 @@
+# ignore heavy files
+#*.wav
+*.edf
+*.fif
+#*.annot
+*.mgz
+
+#*.mgh
+#*.png
+#*.gif
+
+/freesurfer_subjects
+

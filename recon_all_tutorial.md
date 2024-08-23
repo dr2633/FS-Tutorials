@@ -47,7 +47,7 @@ echo $SUBJECTS_DIR
 Run the `recon-all` command with the full path to the T1 .nii file: 
 
 ```bash
-recon-all -s sub-09 -i /Users/derekrosenzweig/PycharmProjects/electrodes/freesurfer_subjects/sub-09_ses-01_T1.nii -all
+recon-all -s sub-10 -i /Users/derekrosenzweig/PycharmProjects/electrodes/freesurfer_subjects/sub-10_ses-01_T1.nii -all
 ```
 Alternatively, can run `recon-all` in parallel through homebrew
 https://www.youtube.com/watch?v=XHN2tm3tNaw

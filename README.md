@@ -25,7 +25,7 @@ This script provides instructions for plotting iEEG electrodes in native space u
 ## Figures
 
 ### 1. Subcortical Structures Visualization
-![Subcortical Structures](subcortical.jpg)
+![Subcortical Structures](figures/subcortical.jpg)
 
 ### 2. White Matter and Pial Surfaces
 ![White Matter and Pial Surfaces](wm-pial.jpg)

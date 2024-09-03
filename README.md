@@ -34,5 +34,3 @@ This script provides instructions for plotting iEEG electrodes in native space u
 <img src="figures/surface-recon.jpg" alt="Surface Reconstruction" width="400">
 ## Important Considerations
 
-- **Electrode Depth Measurement**: Accurately measuring electrode depth from the cortical surface is crucial for distinguishing between grey and white matter sites.
-- **Visualization**: Proper visualization and verification of electrode locations significantly impact the interpretation of iEEG data, particularly in studies involving deep brain structures.

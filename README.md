@@ -25,14 +25,13 @@ This script provides instructions for plotting iEEG electrodes in native space u
 ## Figures
 
 ### 1. Subcortical Structures Visualization
-![Subcortical Structures](figures/subcortical.jpg)
+<img src="figures/subcortical.jpg" alt="Subcortical Structures" width="400">
 
 ### 2. White Matter and Pial Surfaces
-![White Matter and Pial Surfaces](wm-pial.jpg)
+<img src="figures/wm-pial.jpg" alt="White Matter and Pial Surfaces" width="400">
 
 ### 3. Brain Surface Reconstruction
-![Surface Reconstruction](surface-recon.jpg)
-
+<img src="figures/surface-recon.jpg" alt="Surface Reconstruction" width="400">
 ## Important Considerations
 
 - **Electrode Depth Measurement**: Accurately measuring electrode depth from the cortical surface is crucial for distinguishing between grey and white matter sites.

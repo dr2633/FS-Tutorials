@@ -32,5 +32,4 @@ This script provides instructions for plotting iEEG electrodes in native space u
 
 ### 3. Brain Surface Reconstruction
 <img src="figures/surface-recon.jpg" alt="Surface Reconstruction" width="400">
-## Important Considerations
 

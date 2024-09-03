@@ -1,4 +1,4 @@
-# iEEG Electrode Visualization and FreeSurfer Recon-All Pipeline
+# iEEG Electrode Visualization and FreeSurfer Pipeline
 
 This repository contains two primary scripts: one for running the `recon-all` pipeline on T1-weighted MRI images and another for visualizing intracranial EEG (iEEG) electrodes in native space using FreeView.
 
